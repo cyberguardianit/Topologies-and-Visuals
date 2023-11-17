@@ -1,3 +1,3 @@
 # Topologies-and-Visuals
 
-- [Network Topology](network_topology.pdf)
+- [Network Topology](network_topology.jpg)
